@@ -1,0 +1,36 @@
+.h1{
+    text-align:center;
+    font-size:7em;
+    border-width:20px;
+    border-style:double;
+    border-radius:125px;
+    border-color:red;
+    margin:auto;
+    font-family:monospace;
+    width:70%;
+}
+body {
+color:white;
+background-color:black;
+margin:0;
+}
+#searchbar{
+    position:relative;
+    width:1040px;
+    height:auto;
+    display:inline-block;
+    text-align:center;
+}
+#searchbar .champ{
+    width:600px;
+    height:35px;
+    float:left;
+}
+#searchbar .bouton{
+    background-image: url(images/searchbar_button.png);
+    width: 35px;
+    height: 35px;
+    padding: 0;
+    border:none;
+    float:left;
+}
