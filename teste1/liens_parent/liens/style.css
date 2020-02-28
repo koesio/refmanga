@@ -1,0 +1,78 @@
+
+.titre1 {
+    color:purple;
+    text-align:center;
+    font-size:3.5em;
+    text-transform:uppercase;
+    
+}
+
+#para2 {
+    color:lime;
+    text-indent:500px;
+}
+.h-k{
+    color:pink;
+    text-align:right;
+}
+pre{
+    text-align:left;
+    text-align:justify;
+}
+.p1{
+    color:pink;
+    font-size:3em;
+    text-indent:500px;
+}
+.h3{
+    font-size:3em;
+    text-align:center;
+    text-transform:capitalize;
+}
+ul{
+    font-size:2em;
+    text-align:left;
+}
+.wiki{
+    text-align:right;
+    font-size:1em;
+    font-style:italic;
+    color:aqua;
+}
+P{
+    text-align:left;
+    font-size:2em;
+}
+.p1hk{
+    text-align:right;
+}
+.p3{
+    color:teal;
+    text-indent:500px;
+}
+.p4{
+    text-indent:500px;
+    color:fuchsia;
+}
+.wikimo{
+    color:#FF5733;
+}
+.mail{
+    color:red;
+    font-family:cooper black;
+}
+.deco1{
+    text-decoration:underline;
+}
+.deco2{
+    text-decoration:overline;
+}
+.deco3{
+    text-decoration:line-through;
+}
+.deco4{
+    text-decoration:blink;
+}
+.tt{
+    text-transform:lowercase;
+}

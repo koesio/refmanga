@@ -1,0 +1,80 @@
+h1{
+    color:black;
+    font-size:4em;
+    font-weight:bold;
+    font-family:sans-serif;
+    opacity:1;
+    text-align:center;
+}
+.white{
+    color:white;
+}
+.silver{
+    color:silver;
+}
+.gray{
+    color:gray;
+}
+.black{
+    color:black;
+}
+.red{
+    color:red;
+}
+.maroon{
+    color:maroon;
+}
+.brown{
+    color:brown;
+}
+.lime{
+    color:lime;
+}
+.green{
+    color:green;
+}
+.yellow{
+    color:yellow;
+}
+.olive{
+    color:olive;
+}
+.blue{
+    color:blue;
+}
+.navy{
+    color:navy;
+}
+.fuchsia{
+    color:fuchsia;
+}
+.purple{
+    color:purple;
+}
+.aqua{
+    color:aqua;
+}
+.teal{
+    color:teal;
+}
+.orange{
+    color:orange;
+}
+.pink{
+    color:pink;
+}
+.rose{
+    color:#FF00B7;
+}
+.rgb{
+    color:rgb(101, 59, 36)
+}
+.rgba{
+    color:rgba(250, 128, 114, 0.8)
+}
+ul{
+    font-size:2em;
+    font-family:sans-serif;
+    text-align:center;
+}
+

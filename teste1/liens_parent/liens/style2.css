@@ -1,0 +1,27 @@
+.para1{
+    color:maroon;
+    font-size:30px;
+    font-style:normal;
+    font-weight:bold;
+    font-family:garamond, tohoma, sans-serif;
+}
+.para2{
+    font-size:1em;
+    font-style:italic;
+    font-weight:normal;
+}
+.para3{
+    font-style:oblique;
+    font-weight:bolder;
+}
+.para4{
+    font-style:inherit;
+    font-weight:lighter;
+}
+.para5{
+    color:brown;
+    font-style:italic;
+    font-weight:bold;
+    line-height:70pt;
+    font-size:1.5em;
+}
