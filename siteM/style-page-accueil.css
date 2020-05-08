@@ -1,0 +1,241 @@
+.h1{
+    text-align:center;
+    font-size:7em;
+    border-width:20px;
+    border-style:double;
+    border-radius:125px;
+    border-color:#130248;
+    font-family:monospace;
+    width:70%;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+color:white;
+background-color:rgb(62, 0, 255);
+margin:0;
+}
+#searchbar{
+    position: relative;
+    left:650px;
+    width:1040px;
+    height:100px;
+    display:inline-block;
+}
+#searchbar .champ{
+    width:600px;
+    height:33px;
+    display:inline-block;
+    text-align:center;
+    background-color:#130248;
+    border: none;
+}
+#searchbar .bouton{
+    background-image: url(images/searchbar_button.png);
+    width: 55px;
+    height: 35px;
+    padding: 0;
+    display: inline-block;
+    background-color:#130248;
+    border:5px solid #130248;
+}
+p{
+    display:inline;
+    padding: 110px;
+}
+.shonen {
+    color:##0000FF;
+    font-size:2.5em;
+}
+.shonen:hover{
+    border-top: 5px solid blue;
+    background-color:rgba(0,0,250,0.15);
+}
+.shojo:hover{
+    border-top: 5px solid pink;
+    background-color:rgba(0,0,250,0.15);
+    /*chiffrement par césars *2*/
+}
+.seinen:hover{
+    border-top: 5px solid grey;
+    background-color:rgba(0,0,250,0.15);
+}
+.josei:hover{
+    border-top: 5px solid violet;
+    background-color:rgba(0,0,250,0.15);
+}
+.kodomo:hover{
+    border-top: 5px solid lime;
+    background-color:rgba(0,0,250,0.15);
+}
+.shojo {
+    color:pink;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+.seinen {
+    color:grey;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+.josei {
+    color:violet;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+.kodomo {
+    color:lime;
+    font-size:2.5em;
+    text-decoration: none;
+}
+li{
+    width: 300px;
+    padding: 4px 15px;
+    font-size: 1.5em;
+    position: static;
+    bottom: 1px;
+    list-style-type: none;
+}
+nav li{
+    float: left;
+    font-family: 'Source code pro',calibri,serif;
+    text-align: center;
+}
+nav ul {
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 0px 0px;
+}
+li{
+    text-decoration: none;
+}
+.menu-top{
+    background-color:#130248;
+    width: 100%;
+    height: 65px;
+}
+
+#visited{
+    color: white;
+    text-decoration: none;
+}
+#link{
+    text-decoration: none;
+    color:blue;
+}
+#link2{
+    text-decoration: none;
+    color:pink;
+}
+#link3{
+    text-decoration: none;
+    color:grey;
+}
+#link4{
+    text-decoration: none;
+    color:violet;
+}
+#link5{
+    text-decoration: none;
+    color:lime;
+}
+#link6{
+    text-decoration: none;
+    color:white;
+}
+.bouton{
+    height: 60px;
+    width: 55px;
+    display:inline-block;
+    color: #fff;
+    font-family: calibri,serif;
+}
+.barre{
+    text-align: center;
+    color:#130248;
+}
+.ligne_verticale{
+    border-left:20px solid red;
+}
+.menu{
+    color:white;
+    background-color:#130248;
+    height: 625px;
+    width: 260px;
+    margin-left: 35px;
+    border: 10px double black;
+    position: relative;
+    bottom: 750px;
+    text-decoration: none;
+    
+}
+.panneau-principale{
+    background-color:#130248;
+    height: 750px;
+    width: 1375px;
+    display:inline-block;
+    position: relative;
+    left:420px;
+    border: 8px double black ;
+    border-radius: 80px;
+}
+h2{
+    text-align: center;
+    font-size: 2.5em;
+}
+.action:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 100px;
+}
+.mecha:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 75px;
+}
+.aventure:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 110px;
+}
+.psychologique:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 180px;
+}
+.surnaturel:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 135px;
+}
+.tranche-de-vie:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 180px;
+}
+.fantaisiste:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 130px;
+}
+.fantastique:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 140px;
+}
+.romance:hover{
+    font-size: 2em;
+    box-shadow: -5px 5px 10px black;
+    width: 110px;
+}
+footer{
+    width: 100%;
+    height:50px;
+    position: relative;
+    bottom: 450px;
+    text-align: center;
+}
